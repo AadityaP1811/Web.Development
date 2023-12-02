@@ -5,4 +5,4 @@ This is all about Development
 1. Startig with Learining JS,
 A roadmap to get started in to JS 
 https://whimsical.com/js-basics-roadmap-HxsoYtVkawZbjC1gcy61Cc
-Zeordha Landing Page just with HTML,CSS (Pretty Basic)
+2.Zeordha Landing Page just with HTML,CSS (Pretty Basic)
